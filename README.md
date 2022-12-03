@@ -6,7 +6,7 @@
 ## Introduction
 This is the code repository for paper entitled "Machine Learning Customized Novel Material for Energy-efficient 4D Printing"
 
-![](.//doc//Picture3.svg?raw=true)
+![](.//doc//Picture6.jpg)
 
 
 <!-- ![](./src/doc/fina_revision_figure8.png?raw=true) -->
