@@ -1,0 +1,62 @@
+@@ Log file generated 2020- 1- 8
+ @@ 
+
+go scheil
+temperature_step
+1
+start_wizard
+TCFE9
+Fe
+Y
+Ni 20.0 Ti 20.0 Al 1.0
+ 
+2000
+NONE
+NONE
+Y
+N
+NONE
+set-diagram-axis x BS
+plot
+dump_diagram jpg scheil_solid_1.jpg
+list_data_table
+scheil_solid_1.xls
+
+@select_plot
+@new
+@set-diagram-axis x BS(NiAl)
+@set-diagram-axis y T
+@plot
+@dump_diagram jpg scheil_NiAl_1.jpg
+@list_data_table
+@scheil_NiAl_1.xls
+
+@select_plot
+@new
+@set-diagram-axis x BS(Ni3Ti)
+@set-diagram-axis y T
+@plot
+@dump_diagram jpg scheil_Ni3Ti_1.jpg
+@list_data_table
+@scheil_Ni3Ti_1.xls
+
+select_plot
+new
+set-diagram-axis x BS(laves_phase_c14)
+set-diagram-axis y T
+plot
+dump_diagram jpg scheil_laves_1.jpg
+list_data_table
+scheil_laves_1.xls
+
+select_plot
+new
+set-diagram-axis x BS(fcc_a1)
+set-diagram-axis y T
+plot
+dump_diagram jpg scheil_fcc_1.jpg
+list_data_table
+scheil_fcc_1.xls
+
+exit
+exit

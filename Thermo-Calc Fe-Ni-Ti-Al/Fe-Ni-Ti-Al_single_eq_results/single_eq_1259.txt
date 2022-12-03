@@ -1,0 +1,42 @@
+ Output from POLY-3, equilibrium =     1, label A0  , database: TCFE9   
+
+ Conditions:
+ T=298.15, W(NI)=0.24, W(TI)=9E-2, W(AL)=3E-2, P=1E5, N=1
+ DEGREES OF FREEDOM 0
+
+ Temperature    298.15 K (    25.00 C),  Pressure  1.000000E+05
+ Number of moles of components  1.00000E+00,  Mass in grams  5.39354E+01
+ Total Gibbs energy -2.73818E+04,  Enthalpy -1.91384E+04,  Volume  7.19721E-06
+
+ Component               Moles       W-Fraction  Activity   Potential  Ref.stat
+ AL                      5.9968E-02  3.0000E-02 7.4647E-18 -9.7762E+04 SER     
+ FE                      6.1809E-01  6.4000E-01 1.9085E-02 -9.8139E+03 SER     
+ NI                      2.2056E-01  2.4000E-01 8.0822E-07 -3.4776E+04 SER     
+ TI                      1.0138E-01  9.0000E-02 3.5508E-14 -7.6771E+04 SER     
+
+ BCC_A2                      Status ENTERED     Driving force  0.0000E+00
+ Moles 6.2433E-01, Mass 3.3136E+01, Volume fraction 6.2440E-01  Mass fractions:
+ AL  4.88309E-02  FE  9.51119E-01  NI  4.78289E-05  TI  1.81680E-06
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  9.60521E-02  FE  9.03903E-01  NI  4.32526E-05  TI  2.01391E-06
+ Sublattice  2,  Number of sites  3.0000E+00
+ VA  1.00000E+00
+
+ LAVES_PHASE_C14             Status ENTERED     Driving force  0.0000E+00
+ Moles 8.9560E-02, Mass 4.7807E+00, Volume fraction 9.7330E-02  Mass fractions:
+ AL  5.05469E-13  FE  6.28007E-01  NI  7.30053E-02  TI  2.98988E-01
+ Constitution:
+ Sublattice  1,  Number of sites  2.0000E+00
+ AL  1.00000E-12  FE  9.00400E-01  NI  9.96004E-02  TI  1.00000E-12
+ Sublattice  2,  Number of sites  1.0000E+00
+ AL  1.00000E-12  FE  1.01050E-10  NI  3.26992E-11  TI  1.00000E+00
+
+ NI3TI                       Status ENTERED     Driving force  0.0000E+00
+ Moles 2.8611E-01, Mass 1.6019E+01, Volume fraction 2.7827E-01  Mass fractions:
+ AL  0.00000E+00  FE  0.00000E+00  NI  7.86202E-01  TI  2.13798E-01
+ Constitution:
+ Sublattice  1,  Number of sites  7.5000E-01
+ NI  1.00000E+00  TI  1.00000E-12
+ Sublattice  2,  Number of sites  2.5000E-01
+ NI  1.00000E-12  TI  1.00000E+00

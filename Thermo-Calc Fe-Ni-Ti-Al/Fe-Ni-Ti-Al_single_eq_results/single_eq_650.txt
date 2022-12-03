@@ -1,0 +1,42 @@
+ Output from POLY-3, equilibrium =     1, label A0  , database: TCFE9   
+
+ Conditions:
+ T=298.15, W(NI)=0.16, W(TI)=4E-2, W(AL)=7E-2, P=1E5, N=1
+ DEGREES OF FREEDOM 0
+
+ Temperature    298.15 K (    25.00 C),  Pressure  1.000000E+05
+ Number of moles of components  1.00000E+00,  Mass in grams  5.20092E+01
+ Total Gibbs energy -2.75040E+04,  Enthalpy -1.93920E+04,  Volume  7.23043E-06
+
+ Component               Moles       W-Fraction  Activity   Potential  Ref.stat
+ AL                      1.3493E-01  7.0000E-02 6.5139E-15 -8.0975E+04 SER     
+ FE                      6.7983E-01  7.3000E-01 7.1488E-03 -1.2248E+04 SER     
+ NI                      1.4179E-01  1.6000E-01 1.3729E-06 -3.3463E+04 SER     
+ TI                      4.3450E-02  4.0000E-02 7.2444E-15 -8.0712E+04 SER     
+
+ BCC_A2                      Status ENTERED     Driving force  0.0000E+00
+ Moles 8.0995E-01, Mass 4.1534E+01, Volume fraction 8.1513E-01  Mass fractions:
+ AL  8.33771E-02  FE  9.14087E-01  NI  2.53550E-03  TI  2.83581E-07
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  1.58459E-01  FE  8.39326E-01  NI  2.21535E-03  TI  3.03715E-07
+ Sublattice  2,  Number of sites  3.0000E+00
+ VA  1.00000E+00
+
+ FCC_A1                      Status ENTERED     Driving force  0.0000E+00
+ Moles 2.2657E-02, Mass 1.1036E+00, Volume fraction 2.2810E-02  Mass fractions:
+ AL  1.61002E-01  FE  1.07920E-03  NI  7.68434E-01  TI  6.94843E-02
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  2.90639E-01  FE  9.41239E-04  NI  6.37734E-01  TI  7.06854E-02
+ Sublattice  2,  Number of sites  1.0000E+00
+ VA  1.00000E+00
+
+ NI3TI                       Status ENTERED     Driving force  0.0000E+00
+ Moles 1.6739E-01, Mass 9.3718E+00, Volume fraction 1.6206E-01  Mass fractions:
+ AL  0.00000E+00  FE  0.00000E+00  NI  7.86202E-01  TI  2.13798E-01
+ Constitution:
+ Sublattice  1,  Number of sites  7.5000E-01
+ NI  1.00000E+00  TI  1.00000E-12
+ Sublattice  2,  Number of sites  2.5000E-01
+ NI  1.00000E-12  TI  1.00000E+00

@@ -1,0 +1,42 @@
+ Output from POLY-3, equilibrium =     1, label A0  , database: TCFE9   
+
+ Conditions:
+ T=298.15, W(NI)=0.22, W(TI)=8E-2, W(AL)=0.1, P=1E5, N=1
+ DEGREES OF FREEDOM 0
+
+ Temperature    298.15 K (    25.00 C),  Pressure  1.000000E+05
+ Number of moles of components  1.00000E+00,  Mass in grams  5.03292E+01
+ Total Gibbs energy -3.42683E+04,  Enthalpy -2.54514E+04,  Volume  7.41810E-06
+
+ Component               Moles       W-Fraction  Activity   Potential  Ref.stat
+ AL                      1.8653E-01  1.0000E-01 6.9551E-14 -7.5105E+04 SER     
+ FE                      5.4072E-01  6.0000E-01 4.4084E-03 -1.3447E+04 SER     
+ NI                      1.8866E-01  2.2000E-01 2.3769E-07 -3.7810E+04 SER     
+ TI                      8.4092E-02  8.0000E-02 6.3374E-13 -6.9627E+04 SER     
+
+ BCC_A2                      Status ENTERED     Driving force  0.0000E+00
+ Moles 5.4636E-01, Mass 2.7637E+01, Volume fraction 5.3832E-01  Mass fractions:
+ AL  9.73412E-02  FE  9.00571E-01  NI  2.06288E-03  TI  2.51562E-05
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  1.82490E-01  FE  8.15706E-01  NI  1.77798E-03  TI  2.65770E-05
+ Sublattice  2,  Number of sites  3.0000E+00
+ VA  1.00000E+00
+
+ FCC_A1                      Status ENTERED     Driving force  0.0000E+00
+ Moles 2.9494E-01, Mass 1.4220E+01, Volume fraction 2.9431E-01  Mass fractions:
+ AL  1.64749E-01  FE  5.09548E-04  NI  7.29762E-01  TI  1.04979E-01
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  2.94377E-01  FE  4.39886E-04  NI  5.99476E-01  TI  1.05707E-01
+ Sublattice  2,  Number of sites  1.0000E+00
+ VA  1.00000E+00
+
+ LAVES_PHASE_C14             Status ENTERED     Driving force  0.0000E+00
+ Moles 1.5870E-01, Mass 8.4724E+00, Volume fraction 1.6736E-01  Mass fractions:
+ AL  3.97592E-11  FE  6.25706E-01  NI  7.53404E-02  TI  2.98954E-01
+ Constitution:
+ Sublattice  1,  Number of sites  2.0000E+00
+ AL  1.17500E-10  FE  8.97202E-01  NI  1.02798E-01  TI  1.00000E-12
+ Sublattice  2,  Number of sites  1.0000E+00
+ AL  1.00000E-12  FE  1.26440E-12  NI  1.00000E-12  TI  1.00000E+00

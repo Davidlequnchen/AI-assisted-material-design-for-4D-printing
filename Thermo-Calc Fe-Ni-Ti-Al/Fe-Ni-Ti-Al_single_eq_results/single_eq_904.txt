@@ -1,0 +1,33 @@
+ Output from POLY-3, equilibrium =     1, label A0  , database: TCFE9   
+
+ Conditions:
+ T=298.15, W(NI)=0.18, W(TI)=1E-2, W(AL)=0.1, P=1E5, N=1
+ DEGREES OF FREEDOM 0
+
+ Temperature    298.15 K (    25.00 C),  Pressure  1.000000E+05
+ Number of moles of components  1.00000E+00,  Mass in grams  5.07735E+01
+ Total Gibbs energy -2.91829E+04,  Enthalpy -2.07365E+04,  Volume  7.25940E-06
+
+ Component               Moles       W-Fraction  Activity   Potential  Ref.stat
+ AL                      1.8818E-01  1.0000E-01 4.1163E-15 -8.2113E+04 SER     
+ FE                      6.4550E-01  7.1000E-01 7.7736E-03 -1.2040E+04 SER     
+ NI                      1.5572E-01  1.8000E-01 2.2643E-06 -3.2222E+04 SER     
+ TI                      1.0604E-02  1.0000E-02 2.7954E-16 -8.8780E+04 SER     
+
+ BCC_A2                      Status ENTERED     Driving force  0.0000E+00
+ Moles 7.6524E-01, Mass 3.9338E+01, Volume fraction 7.6646E-01  Mass fractions:
+ AL  8.09054E-02  FE  9.15911E-01  NI  3.18325E-03  TI  1.11015E-08
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  1.54140E-01  FE  8.43072E-01  NI  2.78816E-03  TI  1.19190E-08
+ Sublattice  2,  Number of sites  3.0000E+00
+ VA  1.00000E+00
+
+ FCC_A1                      Status ENTERED     Driving force  0.0000E+00
+ Moles 2.3476E-01, Mass 1.1436E+01, Volume fraction 2.3354E-01  Mass fractions:
+ AL  1.65682E-01  FE  1.70429E-03  NI  7.88216E-01  TI  4.43981E-02
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  2.99120E-01  FE  1.48658E-03  NI  6.54223E-01  TI  4.51705E-02
+ Sublattice  2,  Number of sites  1.0000E+00
+ VA  1.00000E+00

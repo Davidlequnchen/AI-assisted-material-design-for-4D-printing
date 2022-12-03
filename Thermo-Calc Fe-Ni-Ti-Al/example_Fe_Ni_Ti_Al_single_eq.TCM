@@ -1,0 +1,37 @@
+@go data
+@switch_database  tcfe9
+@define_system Fe Ni Ti Al
+@get_data
+@go poly_3
+@set_condition t=298.15 p=1e5 n=1 w(Ni)=0.2 w(Ti)=0.2 w(Al)=0.01
+@c-e
+@l-e
+@file
+@VWNS
+
+@set_interactive
+
+@exit
+
+
+
+go poly_3
+define_material
+TCFE9
+Fe
+Y
+Ni 20.0 Ti 20.0 Al 5.0
+
+25
+NONE
+NONE
+Y
+N
+@c-e
+l-e
+file
+VWNS
+
+set_interactive
+
+exit

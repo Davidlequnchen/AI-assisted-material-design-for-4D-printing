@@ -1,0 +1,51 @@
+ Output from POLY-3, equilibrium =     1, label A0  , database: TCFE9   
+
+ Conditions:
+ T=298.15, W(NI)=0.2, W(TI)=1E-2, W(AL)=5E-2, P=1E5, N=1
+ DEGREES OF FREEDOM 0
+
+ Temperature    298.15 K (    25.00 C),  Pressure  1.000000E+05
+ Number of moles of components  1.00000E+00,  Mass in grams  5.34183E+01
+ Total Gibbs energy -2.22116E+04,  Enthalpy -1.37092E+04,  Volume  7.13399E-06
+
+ Component               Moles       W-Fraction  Activity   Potential  Ref.stat
+ AL                      9.8989E-02  5.0000E-02 3.8351E-19 -1.0512E+05 SER     
+ FE                      7.0782E-01  7.4000E-01 2.4994E-02 -9.1452E+03 SER     
+ NI                      1.8204E-01  2.0000E-01 1.2421E-04 -2.2295E+04 SER     
+ TI                      1.1157E-02  1.0000E-02 9.7829E-21 -1.1422E+05 SER     
+
+ BCC_A2                      Status ENTERED     Driving force  0.0000E+00
+ Moles 7.3049E-01, Mass 3.9268E+01, Volume fraction 7.3427E-01  Mass fractions:
+ AL  3.64670E-02  FE  9.61053E-01  NI  2.47959E-03  TI  8.90686E-13
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  7.26533E-02  FE  9.25076E-01  NI  2.27115E-03  TI  1.00000E-12
+ Sublattice  2,  Number of sites  3.0000E+00
+ VA  1.00000E+00
+
+ FCC_A1#1                    Status ENTERED     Driving force  0.0000E+00
+ Moles 1.3640E-01, Mass 7.1610E+00, Volume fraction 1.3499E-01  Mass fractions:
+ AL  9.06127E-02  FE  2.24568E-01  NI  6.84819E-01  TI  3.71791E-07
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  1.76307E-01  FE  2.11107E-01  NI  6.12585E-01  TI  4.07661E-07
+ Sublattice  2,  Number of sites  1.0000E+00
+ VA  1.00000E+00
+
+ FCC_A1#2                    Status ENTERED     Driving force  0.0000E+00
+ Moles 8.9433E-02, Mass 4.5436E+00, Volume fraction 8.7889E-02  Mass fractions:
+ AL  1.29860E-01  FE  4.01281E-02  NI  8.27503E-01  TI  2.50863E-03
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ AL  2.44514E-01  FE  3.65048E-02  NI  7.16320E-01  TI  2.66186E-03
+ Sublattice  2,  Number of sites  1.0000E+00
+ VA  1.00000E+00
+
+ NI3TI                       Status ENTERED     Driving force  0.0000E+00
+ Moles 4.3674E-02, Mass 2.4452E+00, Volume fraction 4.2854E-02  Mass fractions:
+ AL  0.00000E+00  FE  0.00000E+00  NI  7.86202E-01  TI  2.13798E-01
+ Constitution:
+ Sublattice  1,  Number of sites  7.5000E-01
+ NI  1.00000E+00  TI  1.00000E-12
+ Sublattice  2,  Number of sites  2.5000E-01
+ NI  1.00000E-12  TI  1.00000E+00

@@ -1,0 +1,35 @@
+go data
+switch_database  tcfe9
+define_system Fe Ni Ti Al
+reject phases *
+restore phases LIQUID BCC_A2 FCC_A1 NI3TI LAVES_PHASE_C14
+get_data
+go poly_3
+set_condition t=298.15 p=1e5 n=1 w(Ni)=0.18 w(Ti)=0.015 w(Al)=0.005
+c-e
+
+set_axis_variable 1 t 298.15 1473.15 1
+step
+NORMAL
+post
+
+@ Plot phase fraction (mass fraction) vs temperature
+@sel-plot
+@new
+set_diagram_axis y BPW(*)
+*
+set_diagram_axis x t
+set_label_curve_option f
+set_axis_text_status x
+N
+T[K]
+set_axis_text_status y
+N
+Phase fraction (mass)
+plot
+dump_diagram jpg
+list_data_table
+file
+set_interactive
+exit
+exit
