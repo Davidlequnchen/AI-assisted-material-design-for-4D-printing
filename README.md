@@ -17,17 +17,18 @@ Fig. 2. Overview of the machining learning customized powder, LDED processes and
 # Citation
 If you find our work useful in your research, please cite our paper:
 
-[Paper Link](https://www.mdpi.com/2076-3417/10/22/7967):
+<!-- [Paper Link](https://www.mdpi.com/2076-3417/10/22/7967):
 
-  Chaolin Tan, Xiling Yao, Qian Li, Lequn Chen, Jinlong Su, Fern Lan Ng, Yuchan Liu, Tao Yang, Youxiang Chew, Chain Tsuan Liu, Tarasankar DebRoy. Advanced Science. 2020; 10(22):7967. https://doi.org/10.3390/app10227967
+  Chaolin Tan, Xiling Yao, Qian Li, Lequn Chen, Jinlong Su, Fern Lan Ng, Yuchan Liu, Tao Yang, Youxiang Chew, Chain Tsuan Liu, Tarasankar DebRoy. Advanced Science. 2020; 10(22):7967. https://doi.org/10.3390/app10227967 -->
 
 
 # System requirement
 
 - Python 3.9.12
-- pip install sklearn
+- pip install -U scikit-learn
 - pip install -U pymoo
 - pip install pandas
+- pip install seaborn
 
 
 
