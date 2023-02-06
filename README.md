@@ -1,7 +1,7 @@
 # AI-assisted 4D material design
 This repository contains the code for the paper:
 
-Machine Learning Customized Novel Material for Energy-Efficient 4D Printing[https://doi.org/10.1002/advs.202206607]
+Machine Learning Customized Novel Material for Energy-Efficient 4D Printing [https://doi.org/10.1002/advs.202206607]
 
 
 This work customised a novel Fe-Ni-Ti-Al maraging steel assisted by machine learning to leverage the IHT effect for the in-situ formation of massive precipitates during LAM without PHT. 
