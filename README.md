@@ -1,4 +1,4 @@
-# AI-assisted 4D material design
+# AI-assisted material design for 4D printing
 This repository contains the code for the paper:
 
 Machine Learning Customized Novel Material for Energy-Efficient 4D Printing [https://doi.org/10.1002/advs.202206607]
